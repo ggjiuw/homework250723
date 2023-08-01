@@ -7,4 +7,3 @@ association_country = '\U0001F60E' #😎
 result = country + ' - ' + association_country
 
 print(result)
-da
